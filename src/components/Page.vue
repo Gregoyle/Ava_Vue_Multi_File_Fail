@@ -7,7 +7,7 @@
 
 <script>
     import MessageToggle from './MessageToggle'
-    import List from './List'
+    import List from './List.vue'
 
     export default {
       name: 'page',

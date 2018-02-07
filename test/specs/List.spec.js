@@ -8,4 +8,5 @@ test('List.vue', t => {
     propsData: { items }
   })
   t.is(wrapper.findAll('li').length, items.length)
+  t.is(wrapper.name(), 'list')
 })
