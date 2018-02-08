@@ -17,4 +17,8 @@
 <!-- </script> -->
 
 
-<script src="./List.js"></script>
+<!-- Doesn't Work -->
+<!-- <script src="./List.js"> </script> -->
+
+<!-- Does Work -->
+<script src="./List.js" />
